@@ -1,0 +1,25 @@
+{
+  "name": "contacts-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mz-Vl/goit-node-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mz-Vl/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/Mz-Vl/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "nanoid": "^5.0.9"
+  }
+}
